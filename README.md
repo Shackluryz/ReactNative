@@ -1,8 +1,7 @@
 # DIO - Convite: https://dio.me/sign-up?ref=OCLZ7IVCZN
 ## Introdução ao React Native
 
-
-![IMG_20220608_204253](https://user-images.githubusercontent.com/43302793/172735588-7a0b2d1d-9adc-49ac-918d-abb54d85d2c9.jpg)
+![IMG_20220608_204253](https://user-images.githubusercontent.com/43302793/172738126-f3863bce-3ffb-4a20-bde8-2df743cad133.jpg)
 
 # Conteúdo
 - Conhecendo o React Native
@@ -34,3 +33,4 @@
   - Pressable
   - Linking API
   - Add código nativo no AndroidManifest.xml para abrir link
+
